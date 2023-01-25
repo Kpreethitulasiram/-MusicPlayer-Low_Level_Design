@@ -10,4 +10,3 @@ now create a playlist of your favourites and next have to create a play function
 before that we should create a playmenu method which contains options which is visible to the user
 now we should create a list iterator which iterated through the playlist and checks the options of menu and do that function accordingly using switch case
 now the function is ready to play that we can call with play
-now the project was done.
