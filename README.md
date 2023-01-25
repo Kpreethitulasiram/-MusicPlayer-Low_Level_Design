@@ -1,7 +1,6 @@
 # -MusicPlayer-Low_Level_Design
 
-the main agenda of our project is to create a music player which contains playlist with album of songs
-for that we four collaborated with each other and discussed about how to do our project and make clear understanding of our project and we proceeded to make it
+the main agenda of this project is to create a music player which contains playlist with album of songs
 to make this thing to happen we need a song classs , an album class and main class
 in song class we created a song constructor calling with title and duration attributes and title and duration calling methods
 in album class we created an arraylist to store the songs and a findsong method to find whether the song exist in the album class or not and it should print the song name if it exist , if not it should add to the addsong method which is created next to the findsong method,and now we should add those songs to the playlist which is created next to the addsong method with tracknumber and linkedlist playlist, again create another method with same playlist mrthod with song titlr and playlist parameter
